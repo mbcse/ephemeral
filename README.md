@@ -29,3 +29,4 @@ https://www.loom.com/share/fe6cd96a9df14c54ad93cec44ee52855?sid=837ca78e-5c5a-4f
 Token Treat Contract : https://test.xfiscan.com/address/0xf6b29cf96471e9bfbbb52623395759ca948f4554
 
 ## TryOut Link
+https://ephemeral-opal.vercel.app/
